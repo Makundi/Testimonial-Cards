@@ -1,2 +1,2 @@
 # Testimonial-Cards
-In this project I create a bunch of testimonial cards.
+In this project, I created a bunch of testimonial cards to test my knowledge about positioning and layout in CSS.
